@@ -1,0 +1,17 @@
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\bin\Debug\net6.0-windows\declaracaoVariaveis.exe
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\bin\Debug\net6.0-windows\declaracaoVariaveis.deps.json
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\bin\Debug\net6.0-windows\declaracaoVariaveis.runtimeconfig.json
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\bin\Debug\net6.0-windows\declaracaoVariaveis.dll
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\bin\Debug\net6.0-windows\declaracaoVariaveis.pdb
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\declaracaoVariaveis.vbproj.AssemblyReference.cache
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\declaracaoVariaveis.Form1.resources
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\declaracaoVariaveis.vbproj.GenerateResource.cache
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\declaracaoVariaveis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\declaracaoVariaveis.AssemblyInfoInputs.cache
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\declaracaoVariaveis.AssemblyInfo.vb
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\declaracaoVariaveis.vbproj.CoreCompileInputs.cache
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\declaracaoVariaveis.dll
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\refint\declaracaoVariaveis.dll
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\declaracaoVariaveis.pdb
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\declaracaoVariaveis.genruntimeconfig.cache
+C:\Users\guilh\source\repos\declaracaoVariaveis\declaracaoVariaveis\obj\Debug\net6.0-windows\ref\declaracaoVariaveis.dll
